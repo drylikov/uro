@@ -53,6 +53,7 @@ uro will ignore the given extensions.
 
 **Note:** uro has a list of "useless" extensions which it removes by default; that list will be overridden by whatever extensions you provide through blacklist option. Extensionless pages e.g. /books/1 will still be included. To remove them too, use `--filter hasext`.
 
+
 #### Filters (-f/--filters)
 For granular control, uro supports the following filters:
 

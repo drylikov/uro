@@ -66,4 +66,5 @@ For granular control, uro supports the following filters:
 7. **keepslash:** don't remove trailing slash from urls e.g. `http://example.com/page/`
 8. **vuln:** only output urls with parameters that are know to be vulnerable. [More info.](https://github.com/drylikov/Parth)
 
+
 Example: `uro --filters hasexts hasparams`

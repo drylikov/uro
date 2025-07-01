@@ -25,6 +25,7 @@ The quickest way to include uro in your workflow is to feed it data through stdi
 cat urls.txt | uro
 ```
 
+
 ### Advanced usage
 #### Reading urls from a file (-i/--input)
 

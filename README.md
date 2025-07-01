@@ -3,6 +3,8 @@
 # uro
 Using a URL list for security testing can be painful as there are a lot of URLs that have uninteresting/duplicate content; **uro** aims to solve that.
 
+
+
 It doesn't make any http requests to the URLs and removes:
 - incremental urls e.g. `/page/1/` and `/page/2/`
 - blog posts and similar human written content e.g. `/posts/a-brief-history-of-time`

@@ -31,6 +31,7 @@ cat urls.txt | uro
 
 `uro -i input.txt`
 
+
 #### Writing urls to a file (-o/--output)
 If the file already exists, uro will not overwrite the contents. Otherwise, it will create a new file.
 

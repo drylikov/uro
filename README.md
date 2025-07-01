@@ -11,6 +11,7 @@ It doesn't make any http requests to the URLs and removes:
 
 ![uro-demo](https://i.ibb.co/x2tWCC5/uro-demo.png)
 
+
 #### Installation
 The recommended way to install uro is as follows:
 ```

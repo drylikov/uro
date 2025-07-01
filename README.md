@@ -1,6 +1,6 @@
 
 
-# uro
+# Uro
 Using a URL list for security testing can be painful as there are a lot of URLs that have uninteresting/duplicate content; **uro** aims to solve that.
 
 

@@ -45,6 +45,7 @@ uro will ignore all other extensions except the ones provided.
 
 **Note:** Extensionless pages e.g. `/books/1` will still be included. To remove them too, use  `--filter hasext`.
 
+
 #### Blacklist (`-b/--blacklist`)
 uro will ignore the given extensions.
 

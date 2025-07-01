@@ -37,6 +37,7 @@ If the file already exists, uro will not overwrite the contents. Otherwise, it w
 
 `uro -i input.txt -o output.txt`
 
+
 #### Whitelist (`-w/--whitelist`)
 uro will ignore all other extensions except the ones provided.
 
